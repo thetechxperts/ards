@@ -1,0 +1,173 @@
+print"hello i am ards a robotic destruction system ai please scan your product now"
+product = raw_input("")
+
+if product == "9310059008102":
+   print"this is a hand sanatiser bottle by purell it is not recyclable"
+else:
+   print""
+
+if product == "9300601634798":
+   print"thi is coles brand mineral water the bottle is recyclable"
+else:
+   print""
+
+if product == "9300695001810":
+   print"this is an enchilada kit made by old el paso it is recyclable"
+else:
+   print""
+
+if product == "4902430051231":
+   print"this is a olay day cream box it is recyclable"
+else:
+   print""
+
+if product == "9323610000828":
+   print"this is a asmol inhaler  box it is recyclable"
+else:
+   print""
+
+if product == "9319740002061":
+   print"this is cotton twine box made by commet sales international it is recyclable"
+else:
+   print""
+
+if product == "086002031631":
+   print"this is a solar science kit box made by educational insights it is recyclable"
+else:
+   print""
+
+if product == "765023024340":
+   print"this is a inflatable solar system box by learning resources it is recyclable"
+else:
+   print""
+
+if product == "8901860111382":
+   print"this is pva washable school glue bottle by fevicol 5 litres it is recyclable if all the glue is out"
+else:
+   print""
+
+if product == "4007817143230":
+   print"this is a staedtler class pack pencil box it is recyclable"
+else:
+   print""
+
+if product == "765023081640":
+   print"this is a mgears box by learning resources it is recyclable"
+else:
+   print""
+
+if product == "765023033311":
+   print"this is a skeleton in the closet game box it is recyclable"
+else:
+   print""
+
+if product == "8007905023600":
+   print"this is a georello gear tech kit box by tuercetti it is recyclable"
+else:
+   print""
+
+if product == "765023091991":
+   print"this is a this is a dizzy funland building set box made by learning reasources it is recyclable"
+else:
+   print""
+
+if product == "9328350051727":
+   print"this is a paper clip box made by office elements it is recyclable"
+else:
+   print""
+
+if product == "765023019032":
+   print"this is a brain model by cross section as a part of learning reasources it is recyclable"
+else:
+   print""
+
+if product == "765023060409":
+   print"this is a giant magnetic solar system box by learning resources it is recyclable"
+else:
+   print""
+
+if product == "9312311845708":
+   print"this is a poly string box by marbig it is recyclable"
+else:
+   print""
+
+if product == "9780949892362":
+   print"this is the french cooking made easy book by the austraians women weekly it is recyclable"
+else:
+   print""
+
+if product == "305730164207":
+   print"this is ibuprofen caplets box by advilpm it is recyclable"
+else:
+   print""
+
+if product == "9312311208114":
+   print"this is a blue folder by unknown it is recyclable"
+else:
+   print""
+
+if product == "9312311208138":
+   print"this is a red folder by unknown it is recyclable"
+else:
+   print""
+
+if product == "9312311160092":
+   print"this is a yellow folder by unknown it is recyclable"
+else:
+   print""
+
+if product == "9328350007588":
+   print"this is a a4 sheet protector box by office max it is recyclable"
+else:
+   print""
+
+if product == "9330921205609":
+   print"this is a reuasble water bottle from aldi blue it isnt recyclable but it is reusable"
+else:
+   print""
+
+if product == "9300697105653":
+   print"this is a 4 litre pva wood glue by aquadhere the bottle is recyclable is not the glue"
+else:
+   print""
+
+if product == "40267708":
+   print"this is a gluestick by uhu only the container is recyclable not the glue"
+else:
+   print""
+
+if product == "93365611":
+   print"this is a gluestick by bostik only the container is recyclable not the glue"
+else:
+   print""
+
+if product == "9781936975839":
+   print"this is a sonic book by sega it is recyclable"
+else:
+   print""
+
+if product == "9329452008879":
+   print"this is a visual diary by apollo it is recyclable"
+else:
+   print""
+
+if product == "9333290041158":
+   print"this is a book pack of books it is by random house australia they are recyclable"
+else:
+   print""
+
+if product == "9313820016108":
+   print"this is a pepsi max can by pepsi cola it is recyclable"
+else:
+   print""
+
+if product == "9413494000479":
+   print"this is a limited edition organic cola by phoenix organic it is recyclable"
+else:
+   print""
+
+if product == "9415087020680":
+   print"this is a l and p can made by l and p it is recyclable"
+else:
+   print""
+
